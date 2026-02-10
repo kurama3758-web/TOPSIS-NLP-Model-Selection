@@ -1,0 +1,6 @@
+Model,Response_Quality,Latency_ms,Model_Size_MB,Context_Handling
+DialoGPT,88,95,345,4
+BlenderBot,92,140,550,5
+GPT2,85,80,500,3
+T5,90,110,420,4
+ALBERT,82,70,200,3
